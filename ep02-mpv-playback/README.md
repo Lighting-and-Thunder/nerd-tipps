@@ -12,16 +12,14 @@ Caveat: Mit dem default mac Terminal funktioniert der Tastaturbefehl nur wenn du
 Für ghostty Tastenkombination für *"New Ghostty Tab Here"* anpassen.
 
 
-## 1. mpv installieren
+## 2. mpv installieren
 
 **macOS:** Nutze Homebrew im Terminal:
 
     brew install mpv
 
 
-
-
-## 2. Setup (Einmalig)
+## 3. Setup (Einmalig)
 Öffne das Terminal.
 
 Öffne deine zsh-Konfiguration, z.B. mit TextEdit:
@@ -54,8 +52,8 @@ Lade die Konfiguration neu (oder starte das Terminal neu):
 source ~/.zshrc
 ```
 
-## 3. Nutzung
-Navigiere im Terminal in den Ordner mit deiner Bildsequenz.
+## 4. Nutzung
+Im Terminal, im Ordner mit einer Bildsequenz.
 
 Mit Standard-Framerate (24 fps):
 
