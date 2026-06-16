@@ -2,8 +2,15 @@
 
 ## 1. Terminal im richtigen Ordner öffnen
 
-**macOS:** 
-Systemeinstellungen → Tastatur → Tastaturkurzbefehle → Dienste → Dateien und Ordner → Neuer Terminal-Tab beim Ordner
+Systemeinstellungen → Tastatur → Tastaturkurzbefehle
+
+![macOS Tastatur Settings](assets/01-settings.png)
+
+Dienste → Dateien und Ordner → Neuer Terminal-Tab beim Ordner
+
+![macOS Kurzbefehl Settings](assets/02-settings.png)
+
+Dann den Kurzbefehl festlegen.
 
 Ich benutze: ``⌘ + .``
 
