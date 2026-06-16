@@ -1,14 +1,16 @@
 # Nerd Tipps #02: Bildsequenzen blitzschnell abspielen
 
+<video controls src="assets/terminal-bildsequenz.mp4" title="Title"></video>
+
 ## 1. Terminal im richtigen Ordner öffnen
 
 Systemeinstellungen → Tastatur → Tastaturkurzbefehle
 
-![macOS Tastatur Settings](assets/01-settings.png)
+![macOS Tastatur Settings](assets/01-mac-settings.png)
 
 Dienste → Dateien und Ordner → Neuer Terminal-Tab beim Ordner
 
-![macOS Kurzbefehl Settings](assets/02-settings.png)
+![macOS Kurzbefehl Settings](assets/02-mac-settings.png)
 
 Dann den Kurzbefehl festlegen.
 
